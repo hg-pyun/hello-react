@@ -1,5 +1,5 @@
 # Lecture
-Veleport님의 동영상 강의 내용 정리 및 연습 코드 작성
+Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 
 ## Codepen.io 사용하기
 [Codepen.io](https://codepen.io/pen/)에 접속하여 ES6 & React 환경 설정을 해준다.  
