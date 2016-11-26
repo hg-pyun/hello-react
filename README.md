@@ -2,8 +2,8 @@
 React 공부를 위핸 개인 프로젝트 공간
 
 
-### INTRODUCE
-이 Repository는 React를 공부하기 위해 개인이 사용하는 공간입니다.
+### Introduce
+이 Repository는 React를 공부하기 위해 개인이 사용하는 공간입니다.  
 이 프로젝트의 소스코드는 [VELOPERT.LOG](https://velopert.com/775) 페이지를 참고하고 있습니다.
 
 ### Reference
