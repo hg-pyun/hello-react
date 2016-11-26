@@ -19,8 +19,17 @@ ECMA2015 Javascript에 새로 도입된 문법
 #### Nested Element
 모든 JSX 엘리멘트들은 컨테이너로 감싸줘야한다.
 ```javascript
+/* 잘못된 방법 */
 return  (
-    <h1> Hello Velopert</h1>
+    <h1> Hello React</h1>
     <h2> Welcome </h2>
+);
+
+/* 올바른 방법 */
+return  (
+    <div>
+        <h1> Hello React </h1>
+        <h2> Welcome </h2>
+    </div>
 );
 ```
