@@ -31,7 +31,7 @@ $ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset
 #### REACT 강좌
 - [VELOPERT.LOG 리엑트 강좌](https://velopert.com/775)
 - [VELOPERT.LOG Youtube 동영상 강의](https://www.youtube.com/watch?v=GEoNiUcVwjE&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=1)
-- [VELEPOERT.LOG React + Express 동영상 강](https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/)
+- [VELEPOERT.LOG React + Express 동영상 강의](https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/)
 
 #### Article
 - [React 애플리케이션의 서버 렌더링](https://taegon.kim/archives/5312)
