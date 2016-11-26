@@ -5,7 +5,7 @@ class App extends React.Component {
         return (
             <div>
                 <JSXExam />
-                <PropsExam name="props example">이사이에 있는거</PropsExam>
+                <PropsExam name="Props example">이사이에 있는거</PropsExam>
                 <PropsExam>이사이에 있는거</PropsExam>
                 <Counter/>
                 <Contact/>
