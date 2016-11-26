@@ -24,7 +24,7 @@ class JSXExam extends React.Component {
         };
         return (
             <div>
-                /* Comment */
+                { /* Comment */ }
                 <h1> JSX Example</h1>
                 <p style={style}>{text}</p>
             </div>
