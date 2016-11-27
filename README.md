@@ -1,23 +1,15 @@
 # Lecture
 Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 
-## Codepen.io 사용하기
-[Codepen.io](https://codepen.io/pen/)에 접속하여 ES6 & React 환경 설정을 해준다.  
-#### ES6
-Setting > Javscript > Javascript Preprocessor  
-Babel 선택
-
-#### React
-Setting > Javscript > Quick-add  
-React, React-DOM 선택(위 아래 2개에 따로 선택해서 넣으면 됩니다.)
-
-
 ## 동영상 강의
-- [Codepen 설정, ES6 클래스](https://www.youtube.com/watch?v=LxiXsB9m2co&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=4)
-- [JSX의 특징](https://www.youtube.com/watch?v=5MF-ThMob-s&index=5&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
-- [props](https://www.youtube.com/watch?v=atSIfMAmSic&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=6)
-- [state](https://www.youtube.com/watch?v=i_ooWEUtCMc&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=7)
-- [컴포넌트 맵핑(Component Mapping)](https://www.youtube.com/watch?v=x3rhCJWGFc4&index=8&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [MVC, Flux](https://www.youtube.com/watch?v=LRUQfJLuPA8&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=21)
+- [Redux: 특징과 흐름](https://www.youtube.com/watch?v=59XSBf00GpY&index=22&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Redux: 프로젝트 준비하기](https://www.youtube.com/watch?v=rNhstoL9MME&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=23)
+- [Redux: 프로젝트 구조 설정 및 컴포넌트 생성](https://www.youtube.com/watch?v=xX0eQLQ3IJw&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=24)
+- [Redux: Action](https://www.youtube.com/watch?v=_RwMVm1gVuM&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=25)
+- [Redux: Reducer](https://www.youtube.com/watch?v=YdlbmiAtD_4&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=26)
+- [Redux: Store](https://www.youtube.com/watch?v=dmxA42uXo0I&index=27&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Redux: react-redux | 컴포넌트에서 사용하기](https://www.youtube.com/watch?v=bp_eliWWWRA&index=28&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 
 ## 문법
 - [JSX 문법 특징](https://velopert.com/867)
