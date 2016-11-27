@@ -1,6 +1,9 @@
 # Lecture
 Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 
+## Note
+- React-hot-loader는 Constructor를 Reload 하지 않음, 따라서 Constructor를 수정했을 땐 수동으로 새로고침을 해 주어야 함.
+
 ## 동영상 강의
 - [Contact 검색기능 구현 | input, sort, filter](https://www.youtube.com/watch?v=LSTVOuyF6zE&index=12&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 - [Contact 선택기능 구현 | React.js 기초개념 응용](https://www.youtube.com/watch?v=j8oalkWrQrg&index=13&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
