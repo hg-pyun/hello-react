@@ -2,15 +2,14 @@
 Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 
 ## 동영상 강의
-- [MVC, Flux](https://www.youtube.com/watch?v=LRUQfJLuPA8&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=21)
-- [Redux: 특징과 흐름](https://www.youtube.com/watch?v=59XSBf00GpY&index=22&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
-- [Redux: 프로젝트 준비하기](https://www.youtube.com/watch?v=rNhstoL9MME&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=23)
-- [Redux: 프로젝트 구조 설정 및 컴포넌트 생성](https://www.youtube.com/watch?v=xX0eQLQ3IJw&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=24)
-- [Redux: Action](https://www.youtube.com/watch?v=_RwMVm1gVuM&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=25)
-- [Redux: Reducer](https://www.youtube.com/watch?v=YdlbmiAtD_4&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=26)
-- [Redux: Store](https://www.youtube.com/watch?v=dmxA42uXo0I&index=27&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
-- [Redux: react-redux | 컴포넌트에서 사용하기](https://www.youtube.com/watch?v=bp_eliWWWRA&index=28&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Contact 검색기능 구현 | input, sort, filter](https://www.youtube.com/watch?v=LSTVOuyF6zE&index=12&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Contact 선택기능 구현 | React.js 기초개념 응용](https://www.youtube.com/watch?v=j8oalkWrQrg&index=13&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [state 내부 배열 처리하기 | Immutability Helper / ES6 Spread](https://www.youtube.com/watch?v=l5bt79f4aHs&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=14)
+- [Contact 추가/삭제/수정 기능 구현 | Immutability Helper 적용하기](https://www.youtube.com/watch?v=48ZtoaWIL_Y&index=15&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Contact 데이터 추가 기능 구현 | 컴포넌트 응용](https://www.youtube.com/watch?v=L2HZ2OLIhuc&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=16)
+- [Contact 데이터 삭제/수정 기능 구현 | 컴포넌트 응용](https://www.youtube.com/watch?v=u6aJjPw0c_c&index=17&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Contact 엑스트라 기능 구현 | KeyPress, ref](https://www.youtube.com/watch?v=_cnRCixxaHQ&index=18&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+- [Component LifeCycle API](https://www.youtube.com/watch?v=OUAOo1N-EDs&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=19)
+- [Contact 데이터 새로고침해도 유지하기 | localStorage](https://www.youtube.com/watch?v=C_qTjHBlkks&index=20&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 
 ## 문법
-- [JSX 문법 특징](https://velopert.com/867)
-- [props & state](https://velopert.com/921)
