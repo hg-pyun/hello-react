@@ -36,3 +36,5 @@ $ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset
 #### Article
 - [React 애플리케이션의 서버 렌더링](https://taegon.kim/archives/5312)
 - [Flux와 Redux](https://taegon.kim/archives/5288)
+- [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+- [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
