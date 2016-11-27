@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 import App from './components/App'
 
+import { createStore } from 'redux'
+import reducers from './reducers'
+
+const store = createStore(reducers);
+
+
+console.log(store.getState())
+
 ReactDOM.render(
     <AppContainer>
         <App/>
