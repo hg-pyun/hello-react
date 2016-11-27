@@ -8,7 +8,7 @@ import * as actions from '../actions'
 class Counter extends Component {
 
     constructor(props){
-        super(props)
+        super(props);
 
         this.setRandomColor = this.setRandomColor.bind(this)
     }
