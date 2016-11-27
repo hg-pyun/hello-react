@@ -4,6 +4,10 @@ Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 ## Note
 - React-hot-loader는 Constructor를 Reload 하지 않음, 따라서 Constructor를 수정했을 땐 수동으로 새로고침을 해 주어야 함.
 
+#### State Update
+- [Immutability Helpers](https://facebook.github.io/react/docs/update.html)
+- [ES6 spread operator](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
 #### Component LifeCycle API
 - constructor
     - 컴포넌트가 처음 만들어질 때 실행된다
