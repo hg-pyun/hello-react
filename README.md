@@ -33,6 +33,11 @@ $ npm install --save redux react-redux
 
 ```
 
+#### ES6 Spread
+```
+$ npm install 
+```
+
 ## Reference
 #### REACT 강좌
 - [VELOPERT.LOG 리엑트 강좌](https://velopert.com/775)
