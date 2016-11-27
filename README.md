@@ -27,6 +27,12 @@ $ npm install --save react react-dom
 $ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset-es2015 webpack webpack-dev-server
 ```
 
+#### Redux
+```
+$ npm install --save redux react-redux
+
+```
+
 ## Reference
 #### REACT 강좌
 - [VELOPERT.LOG 리엑트 강좌](https://velopert.com/775)
