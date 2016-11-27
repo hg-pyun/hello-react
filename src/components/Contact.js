@@ -1,5 +1,6 @@
 import React from 'react';
 import ContactInfo from './ContactInfo'
+import ContactDetails from './ContactDetails'
 
 export default class Contact extends React.Component {
 
@@ -7,6 +8,7 @@ export default class Contact extends React.Component {
     constructor(props){
         super(props);
         this.state = {
+            selectedKey : -1,
             keyword: '',
             contactData : [
                 {name:'Abet', phone:'010-0000-0001'},
@@ -17,12 +19,21 @@ export default class Contact extends React.Component {
         };
 
         this.handleChange = this.handleChange.bind(this);
+        this.handleClick = this.handleClick.bind(this);
     }
 
     handleChange(e){
         this.setState({
             keyword : e.target.value
         })
+    }
+
+    handleClick(key){
+        this.setState({
+            selectedKey : key
+        });
+
+        console.log('this key', key);
     }
 
     render(){
@@ -34,7 +45,11 @@ export default class Contact extends React.Component {
             });
 
             return data.map((contact, i) =>{ // callback (currentValue, index, array)
-                return (<ContactInfo contact={contact} key={i}/>); // props로 객체를 넘길수도 있음
+                return (<ContactInfo
+                    contact={contact}
+                    key={i}
+                    onClick={()=>{ this.handleClick(i)}}
+                />); // props로 객체를 넘길수도 있음
             })
         };
 
@@ -48,6 +63,11 @@ export default class Contact extends React.Component {
                     onChange={this.handleChange}
                 />
                 {mapToComponent(this.state.contactData)}
+                <ContactDetails
+                    isSelected={this.state.selectedKey != -1}
+                    contact={this.state.contactData[this.state.selectedKey]}
+
+                />
             </div>
         )
     }
