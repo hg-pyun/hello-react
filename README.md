@@ -30,12 +30,11 @@ $ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset
 #### Redux
 ```
 $ npm install --save redux react-redux
-
 ```
 
 #### ES6 Spread
 ```
-$ npm install 
+$ npm install --save babel-preset-stage-0
 ```
 
 ## Reference
