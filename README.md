@@ -1,6 +1,12 @@
 # Lecture
 Veloport님의 동영상 강의 내용 정리 및 연습 코드 작성
 
+## how to use
+```
+$ npm run start
+```
+Open the browser http://localhost:7777.
+
 ## 동영상 강의
 - [MVC, Flux](https://www.youtube.com/watch?v=LRUQfJLuPA8&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC&index=21)
 - [Redux: 특징과 흐름](https://www.youtube.com/watch?v=59XSBf00GpY&index=22&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
