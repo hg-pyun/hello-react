@@ -54,12 +54,18 @@ const mapStateToProps = (state) => {
 };
 
 const mapDispatchToProps = (dispatch) => {
-    // return bindActionCreators(actions, dispatch); // 이름 지정을 못함
+    // 방법 1
     return {
         handleIncrement : () => { dispatch(actions.increment())},
         handleDecrement : () => { dispatch(actions.decrement())},
         handleSetColor : (color) => { dispatch(actions.setColor(color))}
     }
+
+    // 방법 2
+    // return bindActionCreators(actions, dispatch); // 이름 지정을 못함, 액션생성자를 그대로 사용한다.
 };
 
+
+// react-redux 기능
+// 파라미터를 전달하지 않을 경우 this.props.store로 store에 접근 가
 export default connect(mapStateToProps, mapDispatchToProps)(Counter);
